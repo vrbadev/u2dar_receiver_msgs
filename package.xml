@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>u2dar_receiver_msgs</name>
+  <version>0.0.0</version>
+  <description>U2DAR Receiver Messages</description>
+
+  <maintainer email="vrba.vojtech@fel.cvut.cz">Vojtech Vrba</maintainer>
+
+  <license>BSD 3-Clause</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>std_msgs</depend>
+  <depend>message_generation</depend>
+
+  <exec_depend>message_runtime</exec_depend>
+</package>

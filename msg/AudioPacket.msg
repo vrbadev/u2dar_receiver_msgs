@@ -1,0 +1,9 @@
+time stamp_pub
+time stamp_sync
+time stamp_trigger
+time stamp_audio
+uint32 packet_id
+float32 pga_gain
+float32 pga_offset
+uint32 sample_rate
+int32[] adc_data
